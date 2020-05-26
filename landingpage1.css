@@ -5,6 +5,11 @@
    list-style: none;
 
 }
+@media only screen and (min-width: 600px){
+.inp1{
+width: 347px!important;
+}
+}
 .carousel-control-next{
     color:black;
   }
@@ -57,7 +62,7 @@ background-color: #353b48;
 .inp1{
   border:none;
   border-bottom: 2px solid black;
-  width:347px;outline: 0px;
+  width:205px;outline: 0px;
   text-align: center;
 }
 .container1{
